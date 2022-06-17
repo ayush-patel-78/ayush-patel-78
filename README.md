@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayush_patel_78" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_patel_78?logo=twitter&style=for-the-badge" alt="ayush_patel_78" /></a> </p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z4AtupWuOFweTMkfDV4fcPIN5RH81SEq/view?usp=sharing](https://drive.google.com/file/d/1Z4AtupWuOFweTMkfDV4fcPIN5RH81SEq/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1Z4AtupWuOFweTMkfDV4fcPIN5RH81SEq/view?usp=sharing](https://drive.google.com/file/d/1Z4AtupWuOFweTMkfDV4fcPIN5RH81SEq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
