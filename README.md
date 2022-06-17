@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-patel-78&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-patel-78" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-patel-78" alt="ayush-patel-78" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ayush_patel_78" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_patel_78?logo=twitter&style=for-the-badge" alt="ayush_patel_78" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -25,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-patel-78&show_icons=true&locale=en" alt="ayush-patel-78" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-patel-78&" alt="ayush-patel-78" /></p>
-
