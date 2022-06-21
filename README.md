@@ -25,3 +25,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayush-patel-78&show_icons=true&locale=en&theme=nightowl" alt="ayush-patel-78" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-patel-78&theme=nightowl" alt="ayush-patel-78" /></p>
+
+<p align="center">
+  <img src="https://github.com/ayush-patel-78/ayush-patel-78/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
