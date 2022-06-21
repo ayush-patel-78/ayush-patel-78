@@ -30,4 +30,4 @@
   <img src="https://github.com/ayush-patel-78/ayush-patel-78/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
 ![gitartwork](gitartwork.svg)
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ayush-patel-78/ayush-patel-78/blob/output/github-contribution-grid-snake.gif)
