@@ -26,6 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-patel-78&theme=nightowl" alt="ayush-patel-78" /></p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/ayush-patel-78/ayush-patel-78/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
+![gitartwork](gitartwork.svg)
